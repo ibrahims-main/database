@@ -1,0 +1,1 @@
+### Just clone this repository and use the commands by looking at the god damn Database.cpp i dont have time to write all the commands 😘.
